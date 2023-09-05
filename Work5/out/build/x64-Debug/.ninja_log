@@ -1,0 +1,15 @@
+# ninja log v5
+3	139	7156380010024208	build.ninja	cf771503653d2774
+3	1988	7156380025375086	CMakeFiles/Work4DLL.dir/Work4/Parallelogram.cpp.obj	162f3e52630a1035
+5	2022	7156380026175132	CMakeFiles/Work4DLL.dir/Work4/Rectangle.cpp.obj	f0e2f701e9073683
+4	2025	7156380026215134	CMakeFiles/Work4DLL.dir/Work4/Quadrilateral.cpp.obj	b5ffbfcb157b383e
+1	2039	7156380026235135	CMakeFiles/Work4DLL.dir/Work4/Equilateral.cpp.obj	c0936b72482f7a3
+7	2060	7156380026475149	CMakeFiles/Work4DLL.dir/Work4/Rhomb.cpp.obj	d72531a74852e4eb
+2	2061	7156380026245136	CMakeFiles/Work4DLL.dir/Work4/Isosceles.cpp.obj	5068383f386aabd4
+2022	2779	7156380033945576	CMakeFiles/Work4DLL.dir/Work4/Square.cpp.obj	dbdc8c1e1baf3888
+1989	2783	7156380033965578	CMakeFiles/Work4DLL.dir/Work4/Right.cpp.obj	27cd417fa302363a
+2025	2941	7156380035575670	CMakeFiles/Work4DLL.dir/Work4/Triangle.cpp.obj	c3196c793d5d074f
+3	640	7156381287777292	CMakeFiles/cmake_dll.dir/Work/Main.cpp.obj	115c3b7a8fb7ef6a
+2	996	7156381290637455	Work4DLL.dll	929e43cbbacd4553
+2	996	7156381290637455	Work4DLL.lib	929e43cbbacd4553
+996	1684	7156381296557794	cmake_dll.exe	ee6946dca83705b7

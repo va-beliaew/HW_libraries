@@ -1,0 +1,4 @@
+D:/HomeWorks/HW_libraries/Work5/out/build/x64-Debug/CMakeFiles/Work4DLL.dir
+D:/HomeWorks/HW_libraries/Work5/out/build/x64-Debug/CMakeFiles/cmake_dll.dir
+D:/HomeWorks/HW_libraries/Work5/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/HomeWorks/HW_libraries/Work5/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
